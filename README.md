@@ -12,5 +12,7 @@ parola1
 parola2
 parola3
 
-trebuie instalat selenium
+trebuie instalat selenium:
+pip install selenium(comanda de pe terminal)
 
+trebuie instalat chrome driver is pus in PATH poate fi instalat de aici https://chromedriver.chromium.org/downloads,si sa fie aceasi versiune ca chrome ,nu merge altceva in afara de chrome Settings > Help > About Google Chrome,ca sa vedeti versiunea chrome
