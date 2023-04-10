@@ -4,7 +4,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 
 
-PATH = "C:\Program Files (x86)\chromedriver.exe"
+PATH = "C:\Program Files (x86)\chromedriver.exe" # puneti unde este locat chromedriver.exe
 
 driver = webdriver.Chrome(PATH)
 username = "pbinfouser" # pune numele userului aici
